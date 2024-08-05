@@ -31,7 +31,6 @@ import { format } from "path/posix";
 import { useProModal } from "@/hooks/use-pro-modal";
 import toast from "react-hot-toast";
 
-
 interface Part {
   text: string;
 }
@@ -134,7 +133,7 @@ const ImagePage = () => {
             <div className=" flex justify-center mt-2">
               <Card className="rounded-lg overflow-hidden min-w-[350px] border-2 border-pink-700/20">
                 <div className="flex justify-center py-3">
-                  <Image
+                  <img
                     alt="Image"
                     src={image[0]}
                     width={320}

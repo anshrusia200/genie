@@ -6,7 +6,7 @@ const nextConfig = {
         protocol: "https",
         hostname: "ai-studio-assets.limewire.media",
         port: "",
-        pathname: "/u/4a025d0d-aefa-4698-ac62-ebb0dcdccf65/image/**",
+        pathname: "/u/795af9a4-c4b3-437d-b399-d7721918b3a4/image/**",
       },
     ],
   },
